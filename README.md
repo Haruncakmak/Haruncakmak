@@ -14,7 +14,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Haruncakmak" alt="haruncakmak" /> </p>
 
 ## 💻 Frontend
-<a href="#" target="_blank"> <img src="https://www.flaticon.com/free-icons/html-5" alt="css" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://www.google.com.tr/search?q=html5%20logo&tbm=isch&hl=tr&sa=X&ved=0CNQBEKzcAigAahcKEwiYgc_5ucr2AhUAAAAAHQAAAAAQAg&biw=2114&bih=1041#imgrc=G3U8j3D05nqwdM" alt="css" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919826.svg" alt="css" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="js" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" width="60"/> </a>
