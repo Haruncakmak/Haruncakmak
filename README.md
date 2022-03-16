@@ -5,7 +5,7 @@
 
 ## 👨👩 Social
 
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harun-%C3%A7akmak-6a2474208/)
+
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harun-%C3%A7akmak-6a2474208/)
 [![website](https://img.shields.io/badge/stackoverflow-c8d6e5.svg?&style=for-the-badge&logo=stackoverflow&logoColor=orange)](https://stackoverflow.com/users/16327390/harun-%c3%87akmak)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:hranckmk@gmail.com)
