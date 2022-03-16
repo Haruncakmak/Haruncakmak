@@ -15,7 +15,7 @@
 
 ## 💻 Frontend
 <a href="#" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="css" height="60"/> </a>
-<a href="#" target="_blank"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919826.svg" alt="css" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://www.google.com.tr/url?sa=i&url=https%3A%2F%2Fwww.kindpng.com%2Fimgv%2FhxJwhTh_css3-png-download-css-icon-transparent-png%2F&psig=AOvVaw3B3yLZCWZxGK5cZjQBbEq3&ust=1647515416351000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCf5q6_yvYCFQAAAAAdAAAAABAD" alt="css" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="js" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" width="60"/> </a>
 <a href="#" target="_blank"> <img src="https://www.pngkit.com/png/detail/373-3738691_react-native-svg-transformer-allows-you-import-svg.png" alt="react-native" width="55"/> </a>
