@@ -15,7 +15,7 @@
 
 ## 💻 Frontend
 <a href="#" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="html" height="60"/> </a>
-<a href="#" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2LmWrwhGUPCKKc1CqvVqWn3pl0xpRw91cjQ&usqp=CAU" alt="css" height="70"/> </a>
+<a href="#" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2LmWrwhGUPCKKc1CqvVqWn3pl0xpRw91cjQ&usqp=CAU" alt="css" height="65"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="js" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" width="60"/> </a>
 <a href="#" target="_blank"> <img src="https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png" alt="react-native" width="55"/> </a>
